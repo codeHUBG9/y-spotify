@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+
+#password
+password.txt
+
 # testing
 /coverage
 
